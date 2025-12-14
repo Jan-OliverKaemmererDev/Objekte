@@ -15,4 +15,4 @@ let myObject = {
 // Der Eintrag, der in den eckigen Klammern steht, kann auch ein String sein.
 let objKey = 'job' + 1; // Dynamische Erzeugung des keys
 // console.log(myObject[objKey]); // Zugriff auf den Wert des keys 'age'
-console.table(myObject[objKey]); // Ausgabe in Tabellenform ist mit console.table() möglich
+// console.table(myObject[objKey]); // Ausgabe in Tabellenform ist mit console.table() möglich
